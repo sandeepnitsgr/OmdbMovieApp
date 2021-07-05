@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OmdbMovieApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="search">search</string>
+    <string name="favourites">fav</string>
+    <string name="title_activity_home">Movie Details</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="no_network">No Network Available</string>
+</resources>
